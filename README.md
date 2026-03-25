@@ -14,6 +14,8 @@ O notebook principal está em:
 
 Solvência: [https://colab.research.google.com/drive/1bho59eYkqwDwSyKrg-Yu55suTTxmRif-?usp=sharing]
 
+Rentabilidade: [https://colab.research.google.com/drive/1z5qeYn6McV3nmYbxV10u12nKUppxKpM_?usp=sharing]
+
 Estrutura de Financiamento: [https://colab.research.google.com/drive/1qL-2Rrmmo7t96zUKbBEoesDXb41rxI71?usp=sharing]
 
 Crescimento Anormal: [https://colab.research.google.com/drive/1IGKAgoOyyjNtXw1zStp-mULfqlfJ3mfg#scrollTo=x45VhSNKBtGi]
