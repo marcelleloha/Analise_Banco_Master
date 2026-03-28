@@ -19,3 +19,5 @@ Rentabilidade: [https://colab.research.google.com/drive/1z5qeYn6McV3nmYbxV10u12n
 Estrutura de Financiamento: [https://colab.research.google.com/drive/1qL-2Rrmmo7t96zUKbBEoesDXb41rxI71?usp=sharing]
 
 Crescimento Anormal: [https://colab.research.google.com/drive/1IGKAgoOyyjNtXw1zStp-mULfqlfJ3mfg#scrollTo=x45VhSNKBtGi]
+
+Comparação com outros bancos: [https://colab.research.google.com/drive/15Aosm8FvhGxcBWrkDj1Hhgkoiq1Cw3Xp?usp=sharing]
