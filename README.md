@@ -13,7 +13,7 @@ Este trabalho analisa indicadores financeiros do Banco Master com foco em:
 
 Os dados foram obtidos da base IFData do Banco Central do Brasil.
 
-O notebook principal está em:
+Os notebooks principais estão em:
 
 Solvência: [https://colab.research.google.com/drive/1bho59eYkqwDwSyKrg-Yu55suTTxmRif-?usp=sharing]
 
