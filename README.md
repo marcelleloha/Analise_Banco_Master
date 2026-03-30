@@ -1,5 +1,8 @@
 # Análise de Risco - Banco Master
 
+Você acessa nosso artigo aqui:
+https://1drv.ms/w/c/68d043e02f9e9e67/IQAGZEFmJ18-TKlq4iYrh5n-AdrjXH4Xy4XID5RWPP3625o?e=wzhxiw
+
 Este trabalho analisa indicadores financeiros do Banco Master com foco em:
 
 - Solvência
